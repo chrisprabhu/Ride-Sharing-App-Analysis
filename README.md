@@ -203,7 +203,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](Pyber+Homework/output_10_0.png)
 
 
 
@@ -234,7 +234,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](Pyber+Homework/output_11_0.png)
 
 
 
@@ -264,4 +264,4 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](Pyber+Homework/output_12_0.png)
